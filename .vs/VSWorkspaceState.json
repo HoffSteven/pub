@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Paradigm"
+    "\\Paradigm",
+    "\\Paradigm\\SPO",
+    "\\Paradigm\\SPO\\PARA_EACom"
   ],
-  "SelectedNode": "\\Paradigm",
+  "SelectedNode": "\\Paradigm\\SPO\\PARA_EACom",
   "PreviewInSolutionExplorer": false
 }
